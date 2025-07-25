@@ -6,7 +6,7 @@
 
 A comprehensive Laravel package for processing X12 files with validation, parsing, and JSON conversion capabilities. Built with clean architecture principles and optimized for maintainability.
 
-**Author:** Danila Dolmatov (danila@autosport.by)
+**Author:** Danila Dolmatov ([LinkedIn](https://www.linkedin.com/in/danila-dolmatov/))
 
 ## 🚀 Features
 
@@ -662,4 +662,4 @@ For more information about the MIT License, visit [opensource.org/licenses/MIT](
 
 ## 🆘 Support
 
-For support, please open an issue on GitHub or contact Danila Dolmatov (danila@autosport.by). 
+For support, please open an issue on GitHub or contact Danila Dolmatov on [LinkedIn](https://www.linkedin.com/in/danila-dolmatov/). 
